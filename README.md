@@ -8,7 +8,7 @@ Faturamento Total Por Gênero,
 Faturamento Total Por Bairro, 
 Faturamento Total Por Ano, Trimestre e Mês,
 
--Importação de Visuais Novos
+- Importação de Visuais Novos
 
 Importação: Image Grid, 
 Importação: Text Filter, 
