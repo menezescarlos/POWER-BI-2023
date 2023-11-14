@@ -1,7 +1,5 @@
-# POWER-BI-2023
+# Projeto: Gatito PetShop - 2023
 Portfólio de Power BI
-
-Projeto: Gatito PetShop
 
 Faturamento Total
 Média de Pets
