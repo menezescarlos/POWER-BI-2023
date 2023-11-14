@@ -1,4 +1,21 @@
 # POWER-BI-2023
 Portfólio de Power BI
 
-Aqui se encontra todos os meus trabalhos relacionados a Portfólio.
+Projeto: Gatito PetShop
+
+Faturamento Total
+Média de Pets
+Quantidade de Produtos Vendidos
+Faturamento Total Por Gênero
+Faturamento Total Por Bairro
+Faturamento Total Por Ano, Trimestre e Mês
+Importação: Image Grid
+Importação: Text Filter
+
+Filtros
+
+Data de Venda
+Marca
+Por produto (Pesquisa)
+
+
