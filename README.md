@@ -1,22 +1,40 @@
-# Projeto: Gatito PetShop - 2023
-- Portfólio de Power BI
 
-Faturamento Total, 
-Média de Pets, 
-Quantidade de Produtos Vendidos, 
-Faturamento Total Por Gênero, 
-Faturamento Total Por Bairro, 
-Faturamento Total Por Ano, Trimestre e Mês.
+---
 
-- Importação de Visuais Novos
+# 🐾 **Projeto: Gatito PetShop - 2023**
 
-Importação: Image Grid, 
-Importação: Text Filter. 
+---
 
-- Filtros
+## 📊 **Portfólio de Power BI**
 
-Data de Venda, 
-Marca, 
-Por produto (Pesquisa).
+Este projeto apresenta um portfólio de análises feitas no Power BI para o **Gatito PetShop**. As principais métricas analisadas incluem:
+
+- **Faturamento Total**
+- **Média de Pets**
+- **Quantidade de Produtos Vendidos**
+- **Faturamento Total Por Gênero**
+- **Faturamento Total Por Bairro**
+- **Faturamento Total Por Ano, Trimestre e Mês**
+
+---
+
+## 🛠️ **Importação de Visuais Novos**
+
+Para enriquecer a visualização dos dados, foram importados novos visuais:
+
+- **Importação:** 🖼️ **Image Grid**
+- **Importação:** 🔍 **Text Filter**
+
+---
+
+## 🎛️ **Filtros**
+
+Os principais filtros utilizados nas análises incluem:
+
+- **Data de Venda**
+- **Marca**
+- **Por Produto** *(Pesquisa)*
+
+---
 
 
